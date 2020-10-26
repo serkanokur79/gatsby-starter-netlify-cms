@@ -8,14 +8,19 @@ mainpitch:
   title: Who am I?
   description: >+
     Hello! I am Serkan.
-
-
     I have been an instructional designer and team leader for many years. I am a self-thought Frontend developer, lately focused on ReactJS.
 
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description:   Qualifications
+
+    Frontend Development (HTML, CSS, JavaScript, React JS, Firebase, Gatsby)
+
+    Instructional Design (Analysis, Storyboarding, Script Writing, Gamification of E-learning)
+
+    E-learning Development (Articulate Storyline 360, Rise 360)
+
+    Online material/ video/ product testing
+
+    Stack: Word, Excel, PowerPoint, HTML, CSS, JavaScript, React, WordPress, Firebase, Google Analytics, Facebook Analytics, JIRA, Google Ads, Adobe XD, Camtasia, Articulate Studio 360, Visual Studio Code, Paint.net
 intro:
   blurbs:
     - image: /img/coffee.png
